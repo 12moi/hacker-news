@@ -196,6 +196,10 @@ Buttons
 .btn-container button:disabled {
   cursor: not-allowed;
 }
+.footer{
+  display: flex;
+  justify-content: center;
+}
 
 /*
 =============== 

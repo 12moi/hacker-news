@@ -3,7 +3,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className='footer d-flex '
+    <div className='footer'
     style={{
       width:"100%",
     //   fontSize:"19px",
