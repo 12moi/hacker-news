@@ -1,8 +1,25 @@
 import React from 'react'
+// import '../App.css'
 
-function Footer() {
+const Footer = () => {
   return (
-    <div>Footer</div>
+    <div className='footer d-flex '
+    style={{
+      width:"100%",
+      fontSize:"19px",
+      justifyContent:"center",
+      alignItems:"center",
+      fontWeight:"bold",
+      height:"10vh",
+      position:"sticky",
+      top:"100%",
+
+    }}
+    >
+   
+    
+        <p>Store 2023 &copy; Moi</p>
+    </div>
   )
 }
 
