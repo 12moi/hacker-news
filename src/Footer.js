@@ -16,8 +16,6 @@ const Footer = () => {
 
     }}
     >
-   
-    
         <p>Store 2023 &copy; Moi</p>
     </div>
   )
