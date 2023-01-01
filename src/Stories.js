@@ -16,8 +16,8 @@ const Stories = () => {
           <article key={objectID} className='story'>
             <h4 className='title'>{title}</h4>
             <p className='info'>
-              {points} points by <span>{author} | </span> {num_comments}{' '}
-              comments
+              {points} Points by <span>{author} | </span> {num_comments}{' '}
+              Comments
             </p>
             <div>
               <a
