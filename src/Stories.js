@@ -26,7 +26,7 @@ const Stories = () => {
                 target='_blank'
                 rel='noopener noreferrer'
               >
-                read more
+                Read more
               </a>
               <button
                 className='remove-btn'
