@@ -16,7 +16,7 @@ const Footer = () => {
 
     }}
     >
-        <p>Store 2023 &copy; Moi</p>
+        <p className='text-center'>Store 2023 &copy; Moi</p>
     </div>
   )
 }
